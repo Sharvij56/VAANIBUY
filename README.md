@@ -1,5 +1,7 @@
 # VaaniBuy
 
+Deployed at: https://vaanibuy.vercel.app/
+
 VaaniBuy is a local demo shopping assistant and mock commerce workflow built for a hackathon-style prototype. It combines a FastAPI backend, a React frontend, and Sarvam AI integration to let users:
 
 - search demo products
